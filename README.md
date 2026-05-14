@@ -91,7 +91,9 @@ elif x < 40:
     print("you will not pass")
 
 elif x > 40 and x < 60:
+
     print("you will pass but not progress")
 
 elif x>60:
+
     print("you will progress")
