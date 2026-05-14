@@ -1,6 +1,6 @@
 # DISC570ComputerProgrammingHomework6.1Q
 
-##Q1:
+## Q1:
 a = int(input("enter the first number: "))
 
 b = int(input("enter the second number: "))
@@ -38,7 +38,7 @@ else:
 roots(a, b, c)
 
 
-##Q.2:
+## Q.2:
 
 numb = int(input("enter a 4 - digit number that is even and does NOT end with a 0: "))
 
@@ -51,7 +51,7 @@ else:
     print("Thanks!")
     
 
-##Q.3:
+## Q.3:
 
 def factorial(x):
 
@@ -66,7 +66,7 @@ def factorial(x):
 print(factorial(5))
 
 
-##Q.4:
+## Q.4:
 
 AES = int(input("whats your grade in AES? "))
 
